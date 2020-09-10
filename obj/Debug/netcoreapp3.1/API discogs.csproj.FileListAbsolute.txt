@@ -1,0 +1,22 @@
+C:\Users\Max\source\repos\API discogs\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Max\source\repos\API discogs\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Max\source\repos\API discogs\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Max\source\repos\API discogs\bin\Debug\netcoreapp3.1\API discogs.exe
+C:\Users\Max\source\repos\API discogs\bin\Debug\netcoreapp3.1\API discogs.deps.json
+C:\Users\Max\source\repos\API discogs\bin\Debug\netcoreapp3.1\API discogs.runtimeconfig.json
+C:\Users\Max\source\repos\API discogs\bin\Debug\netcoreapp3.1\API discogs.runtimeconfig.dev.json
+C:\Users\Max\source\repos\API discogs\bin\Debug\netcoreapp3.1\API discogs.dll
+C:\Users\Max\source\repos\API discogs\bin\Debug\netcoreapp3.1\API discogs.pdb
+C:\Users\Max\source\repos\API discogs\obj\Debug\netcoreapp3.1\API discogs.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\API discogs\obj\Debug\netcoreapp3.1\API discogs.AssemblyInfoInputs.cache
+C:\Users\Max\source\repos\API discogs\obj\Debug\netcoreapp3.1\API discogs.AssemblyInfo.cs
+C:\Users\Max\source\repos\API discogs\obj\Debug\netcoreapp3.1\API discogs.RazorTargetAssemblyInfo.cache
+C:\Users\Max\source\repos\API discogs\obj\Debug\netcoreapp3.1\staticwebassets\API discogs.StaticWebAssets.Manifest.cache
+C:\Users\Max\source\repos\API discogs\obj\Debug\netcoreapp3.1\staticwebassets\API discogs.StaticWebAssets.xml
+C:\Users\Max\source\repos\API discogs\obj\Debug\netcoreapp3.1\API discogs.dll
+C:\Users\Max\source\repos\API discogs\obj\Debug\netcoreapp3.1\API discogs.pdb
+C:\Users\Max\source\repos\API discogs\obj\Debug\netcoreapp3.1\API discogs.genruntimeconfig.cache
+C:\Users\Max\source\repos\API discogs\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Max\source\repos\API discogs\obj\Debug\netcoreapp3.1\API discogs.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\API discogs\obj\Debug\netcoreapp3.1\API discogs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Max\source\repos\API discogs\obj\Debug\netcoreapp3.1\API discogs.csproj.CopyComplete
