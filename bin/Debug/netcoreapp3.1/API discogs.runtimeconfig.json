@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "runtimeOptions": {
     "tfm": "netcoreapp3.1",
@@ -10,17 +9,4 @@
       "System.GC.Server": true
     }
   }
-=======
-{
-  "runtimeOptions": {
-    "tfm": "netcoreapp3.1",
-    "framework": {
-      "name": "Microsoft.AspNetCore.App",
-      "version": "3.1.0"
-    },
-    "configProperties": {
-      "System.GC.Server": true
-    }
-  }
->>>>>>> 70a03389c9933d488cff67945b5339ed640d926b
 }

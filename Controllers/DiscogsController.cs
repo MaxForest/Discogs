@@ -4,7 +4,6 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 using Newtonsoft.Json;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 
 namespace API_discogs.Controllers
 {
@@ -12,10 +11,6 @@ namespace API_discogs.Controllers
     [Route("[controller]")]
     public class DiscogsController : ControllerBase
     {
-        public DiscogsController(ILogger<DiscogsController> logger)
-        {
-        }
-
         [HttpGet]
         public string Get()
         {
@@ -29,7 +24,7 @@ namespace API_discogs.Controllers
                 Client.DefaultRequestHeaders.Accept.Clear();
                 Client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
                 Client.DefaultRequestHeaders.TryAddWithoutValidation("Accept", "text/html,application/json");
-                Client.DefaultRequestHeaders.Add("User-Agent", "PetalMD test");
+                Client.DefaultRequestHeaders.Add("User-Agent", ".Core Test");
 
 
                 HttpResponseMessage httpResponse = Client.GetAsync("").Result;
